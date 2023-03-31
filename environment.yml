@@ -5,15 +5,8 @@ dependencies:
   - numpy
   - pandas
   - scikit-learn
-  - json
   - gzip
   - pip
-  - warnings
-  - re
-  - urllib
-  - tkinter
-  - PIL
-  - io
-  - tkscrolledframe
-  - threading
+  - pip:
+    - tkscrolledframe
   - requests
