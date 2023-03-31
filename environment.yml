@@ -1,0 +1,20 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - sklearn
+  - json
+  - gzip
+  - warnings
+  - re
+  - urllib
+  - tkinter
+  - PIL
+  - io
+  - tkscrolledframe
+  - threading
+  - requests
+  - 
